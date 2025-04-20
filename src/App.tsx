@@ -46,7 +46,7 @@ function App() {
       </div>
 
       {/* Stats Section */}
-      <div className="bg-white py-16" style={{marginTop:100}}>
+      <div className="bg-white py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 gap-8 md:grid-cols-3">
             <StatCard
